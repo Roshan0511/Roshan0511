@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android Developer currently learning Jetpack Compose</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/lambiengcode/lambiengcode/main/gif/dash.gif">
 
-- 🔭 I’m currently working on **my Development Skills**
+- 🔭 I’m currently working on my **Development Skills**
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
