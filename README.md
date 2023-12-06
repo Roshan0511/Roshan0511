@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Roshan Jha</h1>
 <h3 align="center">A passionate Android Developer currently learning Jetpack Compose</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif ">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/lambiengcode/lambiengcode/main/gif/dash.gif">
 
-- 🔭 I’m currently working on *my Development Skills*
+- 🔭 I’m currently working on **my Development Skills**
 
-- 🌱 I’m currently learning *Jetpack Compose*
+- 🌱 I’m currently learning **Jetpack Compose**
 
-- 💬 Ask me about *Android Development*
+- 💬 Ask me about **Android Development**
 
-- 📫 How to reach me *roshanjha7053@gmail.com*
+- 📫 How to reach me **roshanjha7053@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,11 +19,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.oracle.com/java/technologies/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> &nbsp;
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="40" height="40"/> </a>  &nbsp;
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a> 
-</p>
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" width="40" height="40"/> </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin" width="40" height="40"/> </a>  
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.oracle.com/java/technologies/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/ec75fffa4a003fa9ea6ba393834fdbf4fab55e5252776c41024e811a351fdec7/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6176612f6a6176612d69636f6e2e737667" alt="java" width="40" height="40"/> </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40"/>
+</p><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Roshan0511&show_icons=true&locale=en&layout=compact" alt="Roshan0511" /></p>
 
